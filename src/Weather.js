@@ -86,8 +86,6 @@ const SearchWeather = () => {
           </div>
         </div>
       )}
-
-       {/* Link to GitHub Repository */}
       <p className="link">
         <a href="https://github.com/GaboJohnK/my-app" target="_blank" rel="noopener noreferrer">
           open-source code

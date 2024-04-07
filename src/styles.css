@@ -1,7 +1,7 @@
 .weather-card {
   font-family: sans-serif;
   text-align: center;
-  background-color: #555b31;
+  background-color: #e1e8ba;
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -50,4 +50,16 @@ ul {
   right: 60px;
   cursor: pointer;
   font-size: 10px;
+}
+.link{
+  margin-top: 35px;
+
+}
+.link a{
+  color: blue;
+  text-decoration: none;
+}
+.link a:hover{
+  text-decoration: underline;
+  color: rgb(26, 126, 126);
 }

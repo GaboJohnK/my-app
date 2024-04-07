@@ -87,7 +87,13 @@ const SearchWeather = () => {
         </div>
       )}
 
-      
+       {/* Link to GitHub Repository */}
+      <p className="link">
+        <a href="https://github.com/GaboJohnK/my-app" target="_blank" rel="noopener noreferrer">
+          open-source code
+        </a>{" "}
+        by Gabo John
+      </p>
     </div>
   );
 };
